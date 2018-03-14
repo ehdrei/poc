@@ -1,0 +1,10 @@
+{
+  "name": "AXA POC",
+  "short_name": "PWA AXA",
+  "description": "Prueba de Conceto",  
+  
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#673ab7"
+}
