@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "https://ehdrei.github.io/poc/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/inline.ae8a8343ece5679cd50e.bundle.js",
-        "/main.f4ffa431c8c6bb6e988a.bundle.js",
-        "/polyfills.f20484b2fa4642e0dca8.bundle.js",
-        "/styles.9c0ad738f18adc3d19ed.bundle.css"
+        "https://ehdrei.github.io/poc/favicon.ico",
+        "https://ehdrei.github.io/poc/index.html",
+        "https://ehdrei.github.io/poc/inline.ae8a8343ece5679cd50e.bundle.js",
+        "https://ehdrei.github.io/poc/main.f4ffa431c8c6bb6e988a.bundle.js",
+        "https://ehdrei.github.io/poc/polyfills.f20484b2fa4642e0dca8.bundle.js",
+        "https://ehdrei.github.io/poc/styles.9c0ad738f18adc3d19ed.bundle.css"
       ],
       "patterns": []
     },
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.ae8a8343ece5679cd50e.bundle.js": "8cdea664d5447783d2fc608f057cdfc0fed35848",
-    "/main.f4ffa431c8c6bb6e988a.bundle.js": "039a3ca5816718a5936de4cf5979b717e8d95a57",
-    "/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
-    "/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "05899fb2746d40bae129457e8d1a1b6c8e752f77"
+    "https://ehdrei.github.io/poc/inline.ae8a8343ece5679cd50e.bundle.js": "8cdea664d5447783d2fc608f057cdfc0fed35848",
+    "https://ehdrei.github.io/poc/main.f4ffa431c8c6bb6e988a.bundle.js": "039a3ca5816718a5936de4cf5979b717e8d95a57",
+    "https://ehdrei.github.io/poc/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
+    "https://ehdrei.github.io/poc/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
+    "https://ehdrei.github.io/poc/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://ehdrei.github.io/poc/index.html": "cb07297a386e8d60cc74cb3356ce444bf17f2f90"
   }
 }
